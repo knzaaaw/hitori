@@ -9,10 +9,10 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188'] //['628','628'] 2 owner atau lebih
-global.author = 'Nazedev'
-global.botname = 'Hitori Bot'
-global.packname = 'Bot WhatsApp'
+global.owner = ['6281292674911'] //['628','628'] 2 owner atau lebih
+global.author = 'KNZAAAW'
+global.botname = 'knzbot'
+global.packname = 'anime'
 global.listprefix = ['+','!','.']
 
 /*
@@ -21,11 +21,11 @@ global.listprefix = ['+','!','.']
 - setbotauthor, setbotpackname, setbotname
 */
 
-global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
+global.listv = ['⊹ㅤ ♡̶ ֹ']
 global.tempatDB = 'database.json' // Taruh url mongodb di sini jika menggunakan mongodb. Format : 'mongodb+srv://...'
 global.tempatStore = 'baileys_store.json' // Taruh url mongodb di sini jika menggunakan mongodb. Format : 'mongodb+srv://...'
 global.pairing_code = true
-global.number_bot = '' // Kalo pake panel bisa masukin nomer di sini, jika belum ambil session. Format : '628xx'
+global.number_bot = '6282130060363' // Kalo pake panel bisa masukin nomer di sini, jika belum ambil session. Format : '628xx'
 
 global.fake = {
 	anonim: 'https://telegra.ph/file/95670d63378f7f4210f03.png',
@@ -56,14 +56,14 @@ global.money = {
 
 global.mess = {
 	key: 'Apikey mu telah habis silahkan kunjungi\nhttps://my.hitori.pw',
-	owner: 'Fitur Khusus Owner!',
-	admin: 'Fitur Khusus Admin!',
-	botAdmin: 'Bot Bukan Admin!',
+	owner: '*⚠️ㅤfitur khusus owner ya by!*',
+	admin: '*⚠️ㅤfitur khusus etmint yank!*',
+	botAdmin: '*adminin dulu dong bot nya 🤭🤭*',
 	group: 'Gunakan Di Group!',
 	private: 'Gunakan Di Privat Chat!',
 	limit: 'Limit Anda Telah Habis!',
 	prem: 'Khusus User Premium!',
-	wait: 'Loading...',
+	wait: '⏰️ㅤwait iaaa...',
 	error: 'Error!',
 	done: 'Done'
 }
@@ -78,7 +78,7 @@ global.APIKeys = {
 
 // Lainnya
 
-global.badWords = ['tolol','goblok','asu','pantek','kampret','ngentot','jancok','kontol','memek','lonte']
+global.badWords = ['syibau','tolol','goblok','asu','pantek','kampret','ngentot','jancok','kontol','memek','lonte']
 global.chatLength = 1000
 
 //~~~~~~~~~~~~~~~< PROCESS >~~~~~~~~~~~~~~~\\
